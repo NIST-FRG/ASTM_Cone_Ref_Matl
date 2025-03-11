@@ -15,7 +15,7 @@ For simplicity, please collect your files in a single folder with your INSTITUTE
 Measurement data from repeated experiments should be saved and submitted as separate files, numbered sequentially (e.g.,Institute\_Material-ID\_25kW\_hor\_r1.csv and Institute\_Material-ID\_25kW\_hor\_r2.csv). 
 
 Measurement data of Interest includes:
-time (s), Mass (g), HRR (kW/m2), CO2 (Vol. %), CO (Vol. %), O2 (Vol. %), k_smoke (1/m)
+time (s), Mass (g), HRR (kW/m2), Exhaust mass flow rate, O2 (Vol. %), CO2 (Vol. %), CO (Vol. %), k_smoke (1/m)
 
 ###### Metadata
 Metadata data from repeated experiments should be saved and submitted as separate files, numbered sequentially: Institute\_Material-ID\_50kW\_hor\_r1.json and Institute\_Material-ID\_50kW\_hor\_r2.json
